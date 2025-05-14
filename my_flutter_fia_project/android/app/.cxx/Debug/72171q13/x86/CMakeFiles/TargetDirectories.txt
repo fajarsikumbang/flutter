@@ -1,0 +1,2 @@
+C:/xampp/htdocs/login_tugas/my_flutter_fia_project/android/app/.cxx/Debug/72171q13/x86/CMakeFiles/edit_cache.dir
+C:/xampp/htdocs/login_tugas/my_flutter_fia_project/android/app/.cxx/Debug/72171q13/x86/CMakeFiles/rebuild_cache.dir
